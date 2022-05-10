@@ -31,7 +31,6 @@ const MainCard = () => {
                     </div>
                 </div>
             </div>
-            {/* <InfoModal/> */}
         </>
 
     );
